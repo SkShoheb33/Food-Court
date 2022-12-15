@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "965158791489",
+    "firebase_url": "https://food-court-173f9-default-rtdb.firebaseio.com",
+    "project_id": "food-court-173f9",
+    "storage_bucket": "food-court-173f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965158791489:android:52f651ce029202dfb9d9c0",
+        "android_client_info": {
+          "package_name": "com.example.foodcourt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965158791489-2dmh9vvr2qr92fqiesed4visnl3hm5dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9JTa4-F_q2QEtyipWTUD1NaR-iklZYqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965158791489-2dmh9vvr2qr92fqiesed4visnl3hm5dm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
